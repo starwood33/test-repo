@@ -1,6 +1,2 @@
-auth_token = 'dbc1b2a5bd84476280caaff641f9d207';
-
-key_pass: zaCELgL0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlx;
-  
-  
-CLIENT_SECRET:  dbc1b2a5bd84476280caaff641f9d207;
+'aws_access_key_id': 'AKIA1B5F923ERF2B4EW7',
+'aws_secret_access_key': 'SECRET',
