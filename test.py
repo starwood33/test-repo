@@ -3,7 +3,7 @@ def test_get_region_arguments():
     config = {}
     profiles = {
         'default': {
-            'aws_access_key_id': 'AKIAXUQ34KE64G7ZZAWY', //demo
+            'aws_secret_access_key': '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'//demo
             'aws_access_key_id': 'AKIAXUQ34KE64G7ZZAWY',
             'aws_secret_access_key': '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',
             'region': 'default-region',
